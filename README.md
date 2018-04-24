@@ -1,6 +1,8 @@
-# Basic Web Development at Lambda School
 
+https://amazing-euclid-b565e6.netlify.com/
 https://youtu.be/x398kKdWqEA
+
+# Basic Web Development at Lambda School
 
 You might have noticed, the web is an important part of our industry. Medium posts, data visualization, colaborative environments, software libraries, new research, and so much more are all available directly on the web. You haven't entered Machine Learning through the "traditional" 12+ year academic path, and in many ways this is a blessing for your career. Instead of focusing on historical and hidden academic disciplines, you can dive right into the most visible and most relevant material of today.
 
