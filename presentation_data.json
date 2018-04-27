@@ -8,9 +8,9 @@
         "keywords": ["Machine Learnin","Lambda School","Acoustics","DSP","python"]
     },
     "blog_post_2": {
-        "title": "<TITLE2>",
-        "url": "<MEDIUM OR WEB URL>",
-        "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
+        "title": "ESA Releases GAIA Data r2",
+        "url": "https://medium.com/@schwaaweb/esa-releases-gaia-data-release-2-98f009ee1c6",
+        "keywords": ["Data Science","Esa","Astrometry","Astronomy","Juypyter Notebook"]
     },
     "blog_post_3": {
         "title": "<TITLE3>",
