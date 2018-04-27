@@ -13,9 +13,9 @@
         "keywords": ["Data Science","Esa","Astrometry","Astronomy","Juypyter Notebook"]
     },
     "blog_post_3": {
-        "title": "<TITLE3>",
-        "url": "<MEDIUM OR WEB URL>",
-        "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
+        "title": "Creating Audio with Data part 1",
+        "url": "https://medium.com/@schwaaweb/creating-audio-with-data-part-1-3eaa6fcd6dd9",
+        "keywords": ["Data Visualization","Csound","Audio","Data Sonification"]
     },
     "my_linkedin": "<URL TO LINKEDIN>",
     "latex": "\\begin{bmatrix}\r\n9&9 \\\\ \r\n6&10 \\\\ \r\n 5&7 \r\n\\end{bmatrix}\r\n=\r\n\\begin{bmatrix}\r\n1&0&1 \\\\ \r\n0&1&1 \\\\ \r\n 0&0&1 \r\n\\end{bmatrix}\r\n\\cdot \r\n\\begin{bmatrix}\r\n4&2 \\\\ \r\n1&3 \\\\ \r\n 5&7 \r\n\\end{bmatrix}"
