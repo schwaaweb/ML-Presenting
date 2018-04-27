@@ -1,0 +1,22 @@
+{
+    "name": "<YOUR NAME>",
+    "netlify_subdomain": "https://amazing-euclid-b565e6.netlify.com/",
+    "optional_dns": "schwaaweb.com",
+    "blog_post_1": {
+        "title": "What’s your Sine?",
+        "url": "https://medium.com/@schwaaweb/whats-your-sine-6e6a5ad74826",
+        "keywords": ["Machine Learnin","Lambda School","Acoustics","DSP","python"]
+    },
+    "blog_post_2": {
+        "title": "<TITLE2>",
+        "url": "<MEDIUM OR WEB URL>",
+        "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
+    },
+    "blog_post_3": {
+        "title": "<TITLE3>",
+        "url": "<MEDIUM OR WEB URL>",
+        "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
+    },
+    "my_linkedin": "<URL TO LINKEDIN>",
+    "latex": "\\begin{bmatrix}\r\n9&9 \\\\ \r\n6&10 \\\\ \r\n 5&7 \r\n\\end{bmatrix}\r\n=\r\n\\begin{bmatrix}\r\n1&0&1 \\\\ \r\n0&1&1 \\\\ \r\n 0&0&1 \r\n\\end{bmatrix}\r\n\\cdot \r\n\\begin{bmatrix}\r\n4&2 \\\\ \r\n1&3 \\\\ \r\n 5&7 \r\n\\end{bmatrix}"
+}
